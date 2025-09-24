@@ -1,5 +1,5 @@
 /ip dns static
-
+ 
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-06-19
